@@ -1,3 +1,2 @@
 # NioSaracchi
-repository di Nio Saracchi per il corso java.
-primo commit
+Repository di Nio Saracchi per gli esercizi del modulo di database del corso di java Generation.
