@@ -1,3 +1,3 @@
-select Città.*
+select Città.*,persona.nome
 from genia,persona join Città on Persona.cittànascita=Città.nome
 where ((persona.nome=genia.genitore)and persona.età>=50)
